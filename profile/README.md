@@ -2,7 +2,7 @@
 
 ![MetaSolid.Tech](https://www.metasolid.tech/images/logo-light.svg)
 
-**MetaSolid.Tech** is an IT company founded by [Dr. Robert Nowotniak](https://github.com/rnowotniak/) and [Dr. Robert Susik](https://github.com/rsusik/) with strong R&D and Engineering background in Blockchain Technologies, Quantum Computing and Artificial Intelligence.
+**MetaSolid.Tech** is an IT company with strong R&D and Engineering background in Blockchain, Artificial Intelligence, Cybersecurity and Quantum Computing. The company was founded by [Dr. Robert Nowotniak](https://robert.nowotniak.com) and [Dr. Robert Susik](https://github.com/rsusik/).
 
 * 🌐  Website: https://www.MetaSolid.tech
 * 🔬  Publications: https://www.MetaSolid.tech/science
